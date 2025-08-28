@@ -1,4 +1,9 @@
 Student Information Project
+Student1:
 
 Name:Arya Pawar |Roll no :42 | Dept :AIDS
+
+Student2:
+
+Name:Vaishnavi |Roll no:56 |Dept:AIDS
 
